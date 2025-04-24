@@ -17,3 +17,4 @@ StyleSync is a Python-based desktop application that provides personalized fashi
 - MySQL
 - Pillow (PIL)
 
+###Change the user and password according to your system's MySQL.
